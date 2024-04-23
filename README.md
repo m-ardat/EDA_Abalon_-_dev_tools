@@ -15,4 +15,4 @@ In the process of exploratory analysis, the influence of categorical and continu
 `in development`
 
 ### License
-This project is licensed under the MIT license. For more information, see the LICENSE file.
+This project is licensed under the MIT license. For more information, see the [LICENSE](/LICENSE) file.
