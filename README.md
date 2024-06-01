@@ -17,6 +17,7 @@ The repository contains:
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
 - [How to Use the Project](#how-to-use-the-project)
 - [Author](#author)
+- [About the project](#about-the-project)
 - [License](#license)
 ### EDA
 In the process of exploratory analysis, the influence of categorical and continuous features on the target variable was investigated. For each feature, the hypothesis of its significance has been tested by statistical methods.
@@ -60,5 +61,8 @@ This dashboard allows you to explore swap values, the importance of permutations
 
 ### Author
 - Maxim Ardat - [GitHub](https://github.com/m-ardat), [Telegram](https://t.me/m_ardat)
+
+### About the project
+The work was carried out within the framework of the [course](https://stepik.org/course/177213/info)
 ### License
 This project is licensed under the MIT license. For more information, see the [LICENSE](/LICENSE) file.
